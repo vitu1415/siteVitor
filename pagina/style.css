@@ -1,0 +1,26 @@
+body{
+    background-color: #ddd;
+    font-family: 'Arial Narrow';
+    color: #444;
+    font-weight: 1.5;
+    display: grid;
+    place-items: center;
+
+}
+
+header{
+    font-size: 30px;
+    font-weight: bold;
+    color: #db8102;
+    line-height: 1.5;
+}
+
+main{
+    background: white;
+    line-height: 1.5;
+    width: 70%;
+    align-self: center;
+    padding: 40px;
+    margin: 15px;
+    border-radius: 15px;
+}
